@@ -1,0 +1,22 @@
+The Hitchhiker’s Guide to Software Licensing
+
+- IANAL
+- DJ not interested in copyright law
+- Licenses in a modular world
+- Free software
+- We know we cannot copy a paragraph from another paper without attributing
+- Berne convention
+- Open source
+- Patent vs copyright
+- License compatibility
+- Share-alike vs copyleft
+- What license to choose for new project
+- Permissive, copyleft, viral, public domain, share-alike
+- Norway situation
+- Fork
+- Hijack defense
+- Can you include code you found on SO?
+- Can you include open source code in a closed code?
+- Dirty hands doctrine
+- Rewriting and relicensing, derivative work, clean room design.
+- Plugin trick: is linking enough of a separation?
